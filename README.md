@@ -133,7 +133,8 @@
 2. **Scarface: The World Is Yours**  
    קישור: (https://en.wikipedia.org/wiki/Scarface:_The_World_Is_Yours)(#)  
    צילום מסך:  
-   ![צילום מסך 2](#)  
+   ![image](https://github.com/user-attachments/assets/4b958e5a-d92a-468a-a6c9-a682b690fa57)
+  
    תיאור: המטרה שלך היא להחזיר את כוחך ולשלוט על עולם הפשע של מיאמי, תוך ניהול עסקי סמים, קרב עם אויבים, ולקיחת
    שליטה על טריטוריות שונות.  
    איך נבדל: עולם פתוח עם אפשרות לנהל בריתות גם עם דמויות מהעבר ההיסטורי.
@@ -141,9 +142,10 @@
 3. **Gangsters: Organized Crime**  
    קישור: (https://en.wikipedia.org/wiki/Gangsters:_Organized_Crime)(#)  
    צילום מסך:  
-   ![צילום מסך 3](#)  
+   ![image](https://github.com/user-attachments/assets/0acad780-e421-48fd-a2bc-07b13539fe68)
+  
    תיאור: משחק פשע המתרחש אחרי מלחמת העולם השנייה.  
-   איך נבדל: מערכת ניהול בריתות שתשפיע על תוצאה המשחק, עם דגש על דיפלומטיה ושחקנים יריבים.
+   איך נבדל: גרפיקה מתקדמת יותר, עם חווית משתמש עשירה יותר.
 
 ---
 
