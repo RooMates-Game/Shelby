@@ -8,10 +8,11 @@ public class InputMover : MonoBehaviour
 {
     [Tooltip("Speed of movement, in meters per second")]
     [SerializeField] float speed = 10f;
+
     [SerializeField]
     InputAction move = new InputAction(
         type: InputActionType.Value, expectedControlType: nameof(Vector2));
-    
+
     void OnEnable()
     {
         move.Enable();
@@ -33,6 +34,7 @@ public class InputMover : MonoBehaviour
         {
             transform.eulerAngles = new Vector3(0, 0, 0); // Face right
         }
+
         Vector3 movementVector = new Vector3(moveDirection.x, moveDirection.y, 0) * speed * Time.deltaTime;
         transform.position += movementVector;
     }
